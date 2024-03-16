@@ -4,4 +4,6 @@
 
 Copyright 2022 Okta, Inc. All Rights Reserved. 
 
-This is a container repository for all the lab repos used in the CI4D course.
+This is a container repository for all the lab repos used in Okta Customer Identity Solution Bootcamp.
+
+#### Disclaimer: For educational purposes only. Not for production.
